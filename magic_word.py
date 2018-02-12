@@ -2,6 +2,8 @@
 
 def main():
     x=4
+
+    u=4
     if (x.__eq__(5)):
         print("is equal")
 
